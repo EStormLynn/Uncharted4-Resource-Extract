@@ -6,7 +6,7 @@ https://zhuanlan.zhihu.com/p/232139156
 
 ## 文件说明
 
-    ├─1.PS4PKGViewer.v1.5-LMAN	pkg提取
+    ├─1.PS4PKGViewer.v1.5-LMAN	 pkg提取
     │      PS4PKGViewer.bin
     │      PS4PKGViewer.dat
     │      PS4PKGViewer.exe
